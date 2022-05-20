@@ -17,3 +17,7 @@ Me not know much
 ## test
 
 test test test test
+
+### copyright and terms
+
+Users have to respect our copyright and terms
